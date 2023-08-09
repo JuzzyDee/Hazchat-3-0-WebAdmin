@@ -1,0 +1,3 @@
+Before this POC can work, the AWS config needs to be added.
+
+Please ensure you add the supplied AWS config to the project. It has been added to gitignore for the sole reason that I've made this repo public for ease of access, and this is the only sensitive information in the app.
